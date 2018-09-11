@@ -1,2 +1,2 @@
 # linear_regression
-線形回帰
+線形回帰の実装
